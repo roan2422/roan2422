@@ -6,4 +6,5 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30">
 </p>
