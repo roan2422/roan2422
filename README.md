@@ -17,3 +17,6 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" height="30"/>
 </p>
+
+<h3>My Stats:</h3>
+![roan2422's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roan2422&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
