@@ -1,2 +1,7 @@
-## languages
-![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96) ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=96) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
+<h3>Languages and Tools:</h3>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/>
+</p>
