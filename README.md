@@ -1,6 +1,7 @@
 <h1>Hi 👋, I am Roan</h1>
 
 <h3>Fun facts about me:</h3>
+
 - 💻 I'm currently studying at [The BIT Academy](https://www.bit-academy.nl/mbo/)
 - ⌨️ I Like to play [videogames](https://en.wikipedia.org/wiki/Video_game) in my free time
 
