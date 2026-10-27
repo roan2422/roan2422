@@ -4,6 +4,7 @@
 
 - 💻 I'm currently studying at [The BIT Academy](https://www.bit-academy.nl/mbo/)
 - ⌨️ I Like to play [videogames](https://en.wikipedia.org/wiki/Video_game) in my free time
+- 🤔 I Like to [troubleshoot](https://en.wikipedia.org/wiki/Troubleshooting) my code and the satisfaction of fixing it.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
