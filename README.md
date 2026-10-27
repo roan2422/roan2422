@@ -20,5 +20,5 @@
 
 <h3>My Stats:</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roan2422&theme=vue-dark&hide_border=true" width="500"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roan2422&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roan2422&theme=vue-dark&hide_border=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roan2422&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="450"/>
