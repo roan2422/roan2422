@@ -15,4 +15,5 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" height="30"/>
 </p>
