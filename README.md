@@ -1,5 +1,7 @@
 <h1>Hi 👋, I am Roan</h1>
 
+- 💻 I'm currently studying at [The BIT Academy](https://www.bit-academy.nl/mbo/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30"/>
